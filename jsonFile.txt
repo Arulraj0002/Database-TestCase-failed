@@ -1,0 +1,5 @@
+{
+    "playerName": "Vishal",
+    "jerseyNumber": 17,
+    "role": "Bowler"
+}
